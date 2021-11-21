@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService", "UserService\UserService.csproj", "{79294699-FC63-46D5-BE46-10D75A484DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService.Test", "UserService.Test\UserService.Test.csproj", "{C107C888-F80F-4F2B-8AC5-6F89231EECF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79294699-FC63-46D5-BE46-10D75A484DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79294699-FC63-46D5-BE46-10D75A484DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79294699-FC63-46D5-BE46-10D75A484DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79294699-FC63-46D5-BE46-10D75A484DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C107C888-F80F-4F2B-8AC5-6F89231EECF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C107C888-F80F-4F2B-8AC5-6F89231EECF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C107C888-F80F-4F2B-8AC5-6F89231EECF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C107C888-F80F-4F2B-8AC5-6F89231EECF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
